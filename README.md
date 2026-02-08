@@ -23,7 +23,7 @@
   ]
   ```
 
-- **HOST**: iKuuu 的域名，不设置时默认为 `ikuuu.de`，iKuuu 更改域名时必须同步修改。iKuuu 经常更换域名，需要随时注意修改。
+- **HOST**: iKuuu 的域名，不设置时默认为 `ikuuu.nl`，iKuuu 更改域名时必须同步修改。iKuuu 经常更换域名，需要随时注意修改。
 - **TELEGRAM_TOKEN**: （可选）Telegram 通知的 Bot Token。
 - **TELEGRAM_TO**: （可选）Telegram 通知的 Chat ID。
 
@@ -40,5 +40,6 @@
 根据 [Github 的政策](https://docs.github.com/zh/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/disabling-and-enabling-a-workflow?tool=webui)，当 60 天内未发生仓库活动时，将自动禁用定时 Workflow。需要再次手动启用。
 
 ## 保活记录
-2025.12.15 更改README.md保活
-2026.1.29 保活
+> 2025.12.15 更改README.md保活
+> 2026.1.29 保活
+> 2026.2.8 保活
